@@ -8,7 +8,7 @@
 
 ### Added:
 - ✅ Added Extra Button - For buffing, etc
-- ➕ Added MultiClient - Just a MultiClient no Macro
+- ➕ Added MultiClient - Just MultiClient no Macro
 - ❌ Auto Collect Gifts - Still no ACG (Upcoming)
 
 ## 🚀 v2.0.0 – Major Update
