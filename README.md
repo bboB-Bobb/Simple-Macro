@@ -6,7 +6,7 @@
 
 ## v2.0.2 - Update
 
-### Added
+### Added:
 - ✅ Added Extra Button - For buffing, etc
 - ➕ Added MultiClient - Just a MultiClient no Macro
 - ❌ Auto Collect Gifts - Still no ACG (Upcoming)
@@ -27,13 +27,13 @@
 
 ## v1.0.2
 
-### Added or Changed
+### Added or Changed:
 - 🎨 UI improvements and new icons
 
 
 ## v1.0.1
 
-### Added or Changed
+### Added or Changed:
 - 🔧 Minor bug fixes (not easily noticeable)
 
 ## v1.0.0
